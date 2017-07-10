@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(21.978763580322266,0,0,4.5471696853637695,-2720.3556086421013,-923.150910615921) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_4" y="255" x="138" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+  <g stroke="null" id="svg_15">
+   <circle stroke="#000000" id="svg_6" r="22.887182" cy="79.335674" cx="76.092255" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffff00"/>
+   <text stroke="#000000" transform="matrix(3.153294519897827,0,0,1.8055087842896165,-528.2398142339625,-491.503988066101) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="324.856996" x="192.154363" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">DP</text>
+   <polygon stroke="null" stroke-width="0" points="151.0259032674585,33.706268310546875 116.28653784913331,63.157962799072266 60.07705507196806,51.90842056274414 60.07705507196806,15.504118919372559 116.28653784913331,4.254571914672852 151.0259032674585,33.706268310546875 " strokeWidth="0" strokecolor="none" fill="#00ff00" edge="78.793683" orient="x" sides="5" shape="regularPoly" id="svg_14" cy="88" cx="315"/>
+  </g>
+ </g>
+</svg>
